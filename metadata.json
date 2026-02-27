@@ -1,16 +1,16 @@
 {
-  "title": "Counter App",
-  "description": "A simple counter app demonstrating Clarity smart contract development with a Next.js frontend.",
+  "title": "sBTC Vault",
+  "description": "A vault contract that accepts sBTC deposits and tracks user balances on Stacks.",
   "type": "dapp",
-  "framework": "Clarity, Next.js, React.js",
-  "useCase": "Learning",
+  "framework": "Clarity, Clarinet SDK, Vitest",
+  "useCase": "DeFi",
   "complexity": "Beginner",
   "tags": [
-    "counter",
-    "web3",
+    "sbtc",
+    "vault",
+    "defi",
     "smart-contract",
     "stacks",
-    "clarity",
-    "next.js"
+    "clarity"
   ]
 }
